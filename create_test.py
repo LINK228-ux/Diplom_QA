@@ -5,7 +5,7 @@ import data
 
 def create_order():
     current_body = data.order_body.copy()
-    current_body ["firstName"] = "Kirill"
+    current_body ["firstName"] = "Oleg"
     track_number = sender_stand_request.post_new_order(current_body)
     return str(track_number.json()["track"])
 
