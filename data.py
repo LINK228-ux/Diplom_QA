@@ -8,7 +8,7 @@ headers = {
 order_body = {
     "firstName": "Oleg",
     "lastName": "Mishkin",
-    "address": "Leninna, 6",
+    "address": "Lenina, 6",
     "metroStation": 6,
     "phone": "+7 912 15 32 193",
     "rentTime": 1,
